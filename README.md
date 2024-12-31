@@ -1,4 +1,4 @@
-# ethangoode.io
+# A Svelte Portfolio Template for Academics
 This repository hosts the code for my portfolio website, version 2!
 
 ## Requirements
