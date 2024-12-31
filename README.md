@@ -1,5 +1,5 @@
 # A Svelte Portfolio Template for Academics
-This repository hosts the code for my portfolio website, version 2!
+This repository hosts my Svelte portfolio website! The website is designed to replicate a light-weight version of the [Hugo Academic theme](https://github.com/HugoBlox/theme-academic-cv), while giving the user access to modern and flexible design tools provided by Svelte and Tailwind CSS. Very little background in web design is required to replicate, and modify the code provided.
 
 ## Requirements
 This project expects the user is replicating the code on a Windows OS (10.0.0+)
