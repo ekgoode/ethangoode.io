@@ -21,12 +21,12 @@
 
 <header class="bg-[#f8f1e7] dark:bg-gray-900 py-4 shadow-md">
   <div class="max-w-6xl mx-auto px-8 flex justify-between items-center">
-    <a href="/" class="text-2xl font-bold text-teal-500 dark:text-teal-300 hover:underline">Ethan Goode</a>
+    <a href="/web/" class="text-2xl font-bold text-teal-500 dark:text-teal-300 hover:underline">Ethan Goode</a>
     <nav class="flex space-x-6">
-      <a href="/" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">About</a>
-      <a href="/publications" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">Publications</a>
-      <a href="/project" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">Projects</a>
-      <a href="/writings" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">Writings</a>
+      <a href="/web/" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">About</a>
+      <a href="/web/publications" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">Publications</a>
+      <a href="/web/project" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">Projects</a>
+      <a href="/web/writings" class="text-gray-700 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-300">Writings</a>
     </nav>
     <button
       on:click={toggleTheme}
